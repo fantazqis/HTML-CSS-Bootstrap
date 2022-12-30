@@ -1,9 +1,5 @@
-html,
-body {
-    background-image: url('background.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    height: 100%;
+div {
+    background-color: aqua;
 }
 
 .h-custom {
