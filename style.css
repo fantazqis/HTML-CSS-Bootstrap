@@ -1,3 +1,11 @@
+html,
+body {
+    background-image: url('background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
 .h-custom {
     height: calc(100% - 73px);
 }
